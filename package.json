@@ -1,0 +1,19 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "Curso cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation"
+  ],
+  "author": "Victor Emanuel",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.2.0"
+  }
+}
